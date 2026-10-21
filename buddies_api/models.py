@@ -10,4 +10,4 @@ class Ihrd(models.Model):
 
     class Meta:
         db_table = 'IHRD' # Points directly to your MySQL table
-        managed = False   # Tells Django to leave your existing table structure intact
+       
